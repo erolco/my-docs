@@ -1,0 +1,6 @@
+[submodule "docs/team1"]
+	path = docs/team1
+	url = https://github.com/erolco/team1.git
+[submodule "docs/team2"]
+	path = docs/team2
+	url = https://github.com/erolco/team2.git

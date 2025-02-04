@@ -1,0 +1,14 @@
+site_name: Centralized Documentation Site
+
+# Define the pages of the site
+nav:
+  - Home: index.md
+  - Team 1: 
+      - 'Team 1 Documentation': 'docs/team1/index.md'
+  - Team 2: 
+      - 'Team 2 Documentation': 'docs/team2/index.md'
+
+# Other MkDocs settings (like theme, etc.) can be added here
+theme:
+  name: 'material'
+
